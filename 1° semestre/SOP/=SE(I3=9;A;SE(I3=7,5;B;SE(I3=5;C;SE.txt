@@ -1,0 +1,3 @@
+=SE(I3>=9;"A";SE(I3>=7,5;"B";SE(I3>=5;"C";SE(I3>=2,5;"D";"E"))))
+
+=SE(I4>=7,5;"Aprovado";SE(I4>=5;"Exame";"Reprovado"))

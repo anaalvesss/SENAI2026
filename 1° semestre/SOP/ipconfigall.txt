@@ -1,0 +1,35 @@
+ipconfig/all
+
+endereço IP: 192.168.0.117
+MAC (endereço físico): 28-C5-D2-50-AB-53
+máscara: 255.255.255.0
+gateway: 192.168.0.1
+broadcast: 192.168.0.255
+range: 256
+
+-> 192.168.0.100/24 = todas infos
+
+
+Máscara Classe C: 255.255.255.0 = 32bits = 11111111 11111111 11111111 00000000 / 24
+
+Máscara Classe B: 255.255.0.0 = 32bits = 11111111 11111111 00000000 00000000 / 16
+
+Máscara Classe A: 255.0.0.0 = 32bits = 11111111 00000000 00000000 00000000 / 8
+
+ex: 10.0.85.17/8
+gateway: 10.0.0.1
+broadcast: 10.255.255.255
+máscara: 255.0.0.0
+range: 253^3 (classe A) = 16.777.216
+
+ex1: 172.16.10.53/16
+máscara: 255.255.0.0
+gateway: 172.16.0.1
+broadcast: 172.16.255.255
+range: 256^2 (classe B) = 65.536
+
+ex2: 192.168.2.34/24
+máscara: 255.255.255.0
+gateway: 192.168.0.1
+broadcast: 192.168.2.255
+range: 256

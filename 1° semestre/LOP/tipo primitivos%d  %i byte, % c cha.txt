@@ -1,0 +1,3 @@
+tipo primitivos:%d / %i byte, % c char, %d / %i int (32 ou 64 bits), % f float (128 bits), %lf double (256 bits)
+
+tipo avançado:  vetores e matrizes (ex: string > %s ; vetor de CHAR (char nome[20])

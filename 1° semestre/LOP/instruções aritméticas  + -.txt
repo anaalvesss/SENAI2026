@@ -1,0 +1,15 @@
+instruções: aritméticas : + - * /
+           lógicas : == > <
+
+memória: variáveis constantes;
+condicionais: if
+laços: for   while
+vetores
+funções
+
+tipos primitivos: 
+-  int
+  - char
+    - float
+      - double
+

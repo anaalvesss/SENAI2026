@@ -1,0 +1,7 @@
+npm init -> inicializa proj. js
+
+instalar dependências:
+npm install express
+npm install cors 
+npm install express cors 
+

@@ -1,0 +1,12 @@
+d = diretório/pasta
+w = gravação
+r = leitura
+x = executar
+rwx = ler, gravar e executar
+rw = ler e gravar
+
+
+
+GitHub = nuvem da Microsoft
+
+git = versão (versionamento)

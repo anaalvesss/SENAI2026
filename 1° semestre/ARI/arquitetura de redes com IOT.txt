@@ -1,0 +1,14 @@
+arquitetura de redes com IOT
+
+- microcontroladores <mais utilizadas: C, Python, Java> {ARDUINO UNO, ESP32(wi-fi), raspeberry py(pc)...};
+- sensores {luz, temperatura, botões, proximidade, ultrassom...};
+- atuadores {leds, motores, autofalantes, displays...}
+- eletromagnetismo.
+
+REDE ELÉTRICA: 
+- movimento dos elétrons (corrente elétrica amper(condutor);
+- diferença de potencial.
+
+REDE DADOS:
+- cabeada (UTP par trançado RJ45);
+- wireless {wi-fi (3g, 4g, 5g).

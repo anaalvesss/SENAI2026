@@ -1,0 +1,26 @@
+malha
+
+anel
+
+switch
+
+unicast
+
+rede
+
+dispositivos (eqpamentos q transmitem informações em uma rede), meios físicos (meio onde sera transmitida a informação. ex: coobre, fibra optica, sem fio (wireless) , regras(protocolos IP), mensagem(infotmaçao a ser transmitida)
+
+modelos funcionais
+
+produçoes em massa 2.0
+3.0 automaçao
+4.0tecno. cibernetica
+1.0 vapor, tear
+unicast > unico destino
+multicast > para um grupo
+broadcast > transmitida para um unico dispositivo
+osi: 
+
+malware > virus q infiltram sistemas
+ 
+criptografia> garantuir a conficidencialidadde de infotmaçoes

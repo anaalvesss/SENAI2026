@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color:lightsteelblue;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: space-evenly; */
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-color:bisque;
+}
+
+.box > img {
+    width: 100px;
+    height: 80px;
+}
+
+.font-family {
+    size: 10px;
+}
+
+.h1 {
+    size: 14px;
+}

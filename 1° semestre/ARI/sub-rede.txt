@@ -1,0 +1,14 @@
+sub-rede: 
+
+Dividir as redes
+256/2 = /25 = 128
+256/4 =/26 = 64
+256/8 = /27 = 32
+256/16 = /28 = 16
+
+exemplo> Comando ipconfig
+Endereço Ipv4: 10.0.0.118/24
+Máscara Sub-Rede: 255.255.255.0
+Compreendendo o retorno
+Gateway: 10.0.0.1 - primeiro host válido (roteador)
+Broadcast: 10.0.0.1 - último host válido (

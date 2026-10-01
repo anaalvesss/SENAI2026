@@ -1,0 +1,15 @@
+front-end lê os campos, por ex. e-mail e senha, valida em formato json no navegador e envia para o back-end. Ou seja, o front-end fez uma requisição para o back-end.
+
+o Back-end pega as informações e armazena em um banco de dados, em caso de erro ou sucesso, o banco de dados retorna o back-end, que envia uma resposta ao front-end
+
+404 : recurso não encontrado;
+500 : erro interno do servidor;
+202 : cadastrado com sucesso;
+200 : sucesso
+
+requisição | request
+resposta | response
+
+front-end e back-end = códigos separados, pois, se torna menos suscetível a ataques.
+
+back-end q resulta em varias plataformas = API 

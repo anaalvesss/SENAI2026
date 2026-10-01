@@ -1,0 +1,18 @@
+vetor: conjunto de inf. do mesmo tipo
+
+[1, 2, 3, 4, 5]
+
+
+
+
+JS 3 tipos de variaveis:
+var, let & const
+
+var: não usa tanto
+let e const dif: const = constante (n muda mais dps de uma mudança);
+                let= aceita qualquer coisa (inteiro, string, float...)
+
+== : igualdade
+!= : diferente
+=== : estritamente igual
+!== : estritamente diferente

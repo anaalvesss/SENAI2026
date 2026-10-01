@@ -1,0 +1,11 @@
+forEach, primeiramente, é um laço de repetição, porém, diferente do while (que repete em uma condição) e do for (que repete em um contador), o forEach repete baseado em uma lista. Ou seja, ele funciona o mesmo bloco de código até que todos os itens da lista tenham sido processados.
+
+exemplo em LOP: For -> coletar um item no primeiro índice, agora o outro no segundo índice.
+exemplo: forEach -> para cada item, colete todos.
+
+o forEach não precisa de um contador específico, como: i = 0, justamente para não dar erro no código.
+
+forEach == é automático;
+ideal quando quer ler todos os itens de uma lista
+
+para usá-lo em JS, tem q abrir uma função de flecha (arrow function)  

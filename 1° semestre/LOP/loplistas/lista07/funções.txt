@@ -1,0 +1,9 @@
+funções:
+
+tipo NOME FUNÇÃO (opcional parâmetros){
+instruções;
+return (retorno/resultado);
+}
+void NAME PROCEDURE(opcional parâmetros){
+instruções;
+}
